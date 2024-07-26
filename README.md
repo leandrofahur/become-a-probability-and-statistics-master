@@ -1,1 +1,1 @@
-# become-a-probability-and-statistics-master
+# Become a Probability & Statistics Master
